@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Veriphone/static/css/main.72cd03e9.chunk.css",
+    "main.js": "/React-Veriphone/static/js/main.afafd589.chunk.js",
+    "main.js.map": "/React-Veriphone/static/js/main.afafd589.chunk.js.map",
+    "runtime-main.js": "/React-Veriphone/static/js/runtime-main.2498aa59.js",
+    "runtime-main.js.map": "/React-Veriphone/static/js/runtime-main.2498aa59.js.map",
+    "static/css/2.882b750c.chunk.css": "/React-Veriphone/static/css/2.882b750c.chunk.css",
+    "static/js/2.a0d7c5c9.chunk.js": "/React-Veriphone/static/js/2.a0d7c5c9.chunk.js",
+    "static/js/2.a0d7c5c9.chunk.js.map": "/React-Veriphone/static/js/2.a0d7c5c9.chunk.js.map",
+    "static/js/3.d304613c.chunk.js": "/React-Veriphone/static/js/3.d304613c.chunk.js",
+    "static/js/3.d304613c.chunk.js.map": "/React-Veriphone/static/js/3.d304613c.chunk.js.map",
+    "index.html": "/React-Veriphone/index.html",
+    "static/css/2.882b750c.chunk.css.map": "/React-Veriphone/static/css/2.882b750c.chunk.css.map",
+    "static/css/main.72cd03e9.chunk.css.map": "/React-Veriphone/static/css/main.72cd03e9.chunk.css.map",
+    "static/js/2.a0d7c5c9.chunk.js.LICENSE.txt": "/React-Veriphone/static/js/2.a0d7c5c9.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/React-Veriphone/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2498aa59.js",
+    "static/css/2.882b750c.chunk.css",
+    "static/js/2.a0d7c5c9.chunk.js",
+    "static/css/main.72cd03e9.chunk.css",
+    "static/js/main.afafd589.chunk.js"
+  ]
+}
